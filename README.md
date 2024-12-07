@@ -1,1 +1,2 @@
-# dgc-ku.github.io
+# Hey! I'm Daniel
+
