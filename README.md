@@ -1,5 +1,6 @@
 # Hey! I'm Daniel
-<img src="/assets/images/daniels_headshot.png" alt='image' width='200' height='200'>
+<img src="/assets/images/daniels_headshot.png" alt='image' width='250' height='250'>
+
 Welcome to my portfolio page! Feel free to reach out to me on any of the links on the left!
 ## Education
 Candidate for B.S. in Data Science, Minor in Mathematics | Northeastern University (_May 2027_)
