@@ -1,5 +1,5 @@
 # Hey! I'm Daniel
-![Personal Headshot](/assets/images/IMG_1909.jpg)
+![Personal Headshot](/assets/images/Daniel's%Headshot.png)
 Welcome to my portfolio page! Feel free to reach out to me on any of the links on the left!
 ## Education
 Candidate for B.S. in Data Science, Minor in Mathematics | Northeastern University (_May 2027_)
