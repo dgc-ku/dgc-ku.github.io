@@ -8,7 +8,7 @@ Candidate for B.S. in Data Science, Minor in Mathematics | Northeastern Universi
 ## Projects
 
 ### [Pitch Outcome Dashboard - Yankees and Red Sox](https://github.com/dgc-ku/mlb_pitch_dashboard)
-Developed an interactive dashboard using **Plotly Dash** showing pitch outcomes of every pitcher for each team with filters for pitch type, pitch speed, and batter-pitcher handedness matchups during the 2024 regular season. Findings include Luis Gil of the Yankees have a commanding fastball in his Rookie of the Year campaign with 51 strikeouts (out of 171 strikes outs total) on fastballs faster than 97 mph. Video demonstration (done originally for my ![baseball scorecard Instagram account](https://www.instagram.com/kukukachu_baseball/) can be found [here](https://www.youtube.com/watch?v=3wbxCXq_i8I). Co-authored with Liam Miller.
+Developed an interactive dashboard using **Plotly Dash** showing pitch outcomes of every pitcher for each team with filters for pitch type, pitch speed, and batter-pitcher handedness matchups during the 2024 regular season. Findings include Luis Gil of the Yankees have a commanding fastball in his Rookie of the Year campaign with 51 strikeouts (out of 171 strikes outs total) on fastballs faster than 97 mph. Video demonstration (done originally for my [baseball scorecard Instagram account](https://www.instagram.com/kukukachu_baseball/) can be found [here](https://www.youtube.com/watch?v=3wbxCXq_i8I). Co-authored with Liam Miller.
 ![Pitch Outcome Dashboard](/assets/images/Pitch_Outcome_Dash_Demo.png)
 
 ### [NYPD Arrests Database Research](https://github.com/dgc-ku/nypd-arrests-db-research)
