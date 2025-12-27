@@ -1,7 +1,7 @@
 # Hey! I'm Daniel
 <img src="/assets/images/daniels_headshot.png" alt='image' width='250' height='250'>
 
-Welcome to my portfolio page! The project title names are hyperlinked to the report and code on GitHub!
+Welcome to my portfolio page! Project title names with red text are hyperlinked to the report and code on GitHub!
 ## Education
 Candidate for B.S. in Data Science, Minor in Mathematics | Northeastern University (_May 2027_)
 
