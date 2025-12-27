@@ -8,7 +8,7 @@ Candidate for B.S. in Data Science, Minor in Mathematics | Northeastern Universi
 ## Projects
 
 ### Internal Mobility Compensation Dashboard
-Created during my time as a Compensation Analyst Co-op at Wayfair, I built an Internal Mobility compensation dashboard in Google Looker Studio, reducing time-to-result from 5 minutes to 20 seconds by automating SQL pipelines and implementing Wayfair’s compensation policies. The dashboard allows the compensation team and HR partners to quickly determine an employee's proposed pay when internally switching roles by entering the Employee ID, new job profile, and work location. 
+Created during my time as a Compensation Analyst Co-op at Wayfair, I built an Internal Mobility compensation dashboard in **Google Looker Studio** using **SQL**, reducing time-to-result from 5 minutes to 20 seconds by automating SQL pipelines and implementing Wayfair’s compensation policies. The dashboard allows the compensation team and HR partners to quickly determine an employee's proposed pay when internally switching roles by entering the Employee ID, new job profile, and work location. 
 *The screenshot only displays the dashboard framework, as charts and data are intentionally left blank.*
 
 ![Internal Mobility Compensation Dashboard](/assets/images/IM_Dashboard_page-0001.jpg)
